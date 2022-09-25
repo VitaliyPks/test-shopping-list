@@ -14,4 +14,6 @@ sass
 
 <img src='public/2.png' width='300'>
 
+Так же можно попробовать по [ссылке](https://testshoplist.herokuapp.com/) .
+
 <img src='public/3.png' width='300'>
