@@ -1,0 +1,25 @@
+.modal{
+  position: fixed;
+  width: 100vw;
+  height:100vh;
+  background-color: rgba(0,0,0,0.4);
+  z-index: 6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal__content{
+  position:fixed;
+  z-index: 7;
+  left: 41%;
+  top: 100px;
+  width: 350px;
+  height: 350px;
+  border: 1px solid #817e7e;
+  background-color: rgb(163, 172, 172);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
