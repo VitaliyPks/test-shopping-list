@@ -8,7 +8,7 @@ redux-thunk
 typescript  
 sass  
 
-<img src='public/1.png' width='400'>
+<img src='public/1.png' width='600'>
 
 Для запуска приложения введите комманду  `npm start` .
 
